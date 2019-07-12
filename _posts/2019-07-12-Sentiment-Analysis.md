@@ -18,3 +18,6 @@ There were three take-aways:
 - The correlation of price to sentiment varied over time.
 - Rigorous statistical technique is required to separate signal from noise.
 - There is a correlation between the stock price and *then* sentiment. In other words, if the stock price went up, sentiment turned positive. If the stock price went down, sentiment turned negative.
+
+{: .notice}
+Check back in a week or so. We will add the Jupyter Labs notebook and related datasets here.
