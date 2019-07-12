@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MathJax Example"
-date:   2015-08-10
+date:   2019-07-11
 excerpt: "MathJax Example for Moon Jekyll Theme."
 tag:
 - markdown 
@@ -9,7 +9,7 @@ tag:
 - example
 - test
 - jekyll
-comments: true
+comments: false
 ---
 This is a note to remind me that to print math within this blog requires MathJax to be enabled.
 
