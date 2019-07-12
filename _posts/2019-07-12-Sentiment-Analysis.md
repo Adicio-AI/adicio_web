@@ -1,5 +1,6 @@
 ---
 layout: post
+feature: /assets/img/sentiment_analysis.jpg
 title: "Sentiment Analysis"
 date: 2019-07-12
 excerpt: "We ran sentiment analysis on US stocks."
