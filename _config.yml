@@ -1,7 +1,7 @@
 # Site
 title:              Adicio AI
 bio:                'Adicio AI: Projects'
-description:        "Adicio Projects."
+description:        "Adicio, AI, deep learning, machine learning, artificial intelligence, CNN, RNN, convolutional neural networks, recurrent neural networks, sentiment analysis"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -20,7 +20,7 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
-mathjax:            true
+mathjax:            false
 sass:
   sass_dir:         _sass
   style:            compressed
