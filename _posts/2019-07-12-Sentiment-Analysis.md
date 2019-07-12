@@ -6,7 +6,7 @@ excerpt: "We ran sentiment analysis on US stocks."
 tags: [sample post, images, test]
 comments: true
 ---
-
+{: .notice}
 Sentiment Analysis: We ran sentiment analysis on US stock prices. We used Twitter for sentiment. Here's what we found:
 * Stock prices with no correlation to sentiment
 * Stock prices with a weak correlation to sentiment
