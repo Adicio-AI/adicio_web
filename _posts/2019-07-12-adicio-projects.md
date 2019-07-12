@@ -1,5 +1,6 @@
 ---
 layout: post
+feature: /assets/img/Sentiment-Analysis-graphic.png
 title: "Adicio AI Projects"
 date: 2019-07-12
 excerpt: "Welcome to the Adicio AI projects page."
