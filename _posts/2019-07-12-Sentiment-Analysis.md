@@ -11,6 +11,7 @@ Sentiment Analysis: We ran sentiment analysis on US stock prices. We used Twitte
 * Stock prices with no correlation to sentiment
 * Stock prices with a weak correlation to sentiment
 * Stock prices with some correlation with sentiment.
+
 There were three take-aways:
 - The correlation of price to sentiment varied over time.
 - Rigorous statistical technique is required to separate signal from noise.
