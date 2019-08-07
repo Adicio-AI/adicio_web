@@ -1,8 +1,14 @@
+---
 - name: Home
   link: /
+- title: Projects
+  url: /projects/
 - name: About
   link: /about.html
 - name: Blog
   link: /blog.html
 - name: Contact
   link: /contact.html
+---
+
+<!-- 4250057fce827e82b12be804ba3b1e5f8411d72e -->
